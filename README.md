@@ -1,5 +1,8 @@
 ## Hi there 👋
-Ivan Rodriguez
+Ivan Rodriguez.
+Tengo 21 años.
+Soy de Buenos Aires, Argentina.
+Estudio en la Escuela de Educacion Secundaria Tecnica N°1, Monte Grande, Esteban Echeverria.
 
 
 ![mysql](https://github.com/user-attachments/assets/979ddd55-9bff-47e9-8f04-31e1e70e1c7e)
